@@ -3,3 +3,5 @@ function showOffCanvasMenu(){
 }
 
 document.querySelectorAll('.hamburger-icon').forEach(icon => icon.addEventListener('click', showOffCanvasMenu));
+
+// temporarily useless... :P

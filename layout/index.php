@@ -46,50 +46,50 @@
                     </ul>
                 </nav>
             </div>
-            <div class="header-item hamburger-nav">
-                <div class="hamburger-icon">
-                    <svg viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg"
-                         xmlns:xlink="http://www.w3.org/1999/xlink">
-                        <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
-                        <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
-                        <g id="SVGRepo_iconCarrier"><title>hamburger</title>
-                            <desc>Created with Sketch Beta.</desc>
-                            <defs></defs>
-                            <g id="Page-1" stroke="none" stroke-width="1" fill-rule="evenodd">
-                                <g id="Icon-Set-Filled" transform="translate(-212.000000, -888.000000)">
-                                    <path d="M230,904 L214,904 C212.896,904 212,904.896 212,906 C212,907.104 212.896,908 214,908 L230,908 C231.104,908 232,907.104 232,906 C232,904.896 231.104,904 230,904 L230,904 Z M230,896 L214,896 C212.896,896 212,896.896 212,898 C212,899.104 212.896,900 214,900 L230,900 C231.104,900 232,899.104 232,898 C232,896.896 231.104,896 230,896 L230,896 Z M214,892 L230,892 C231.104,892 232,891.104 232,890 C232,888.896 231.104,888 230,888 L214,888 C212.896,888 212,888.896 212,890 C212,891.104 212.896,892 214,892 L214,892 Z"
-                                          id="hamburger"></path>
-                                </g>
-                            </g>
-                        </g>
-                    </svg>
-                </div>
-                <div class="hamburger-nav-off-canvas">
-                    <ul class="hamburger-nav-list">
-                        <li><a href="#home">Home</a></li>
-                        <li><a href="#about">About</a></li>
-                        <li><a href="#projects">Projects</a></li>
-                        <li><a href="#contact">Contact</a></li>
-                    </ul>
-                    <div class="hamburger-icon off-canvas">
-                        <svg viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg"
-                             xmlns:xlink="http://www.w3.org/1999/xlink">
-                            <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
-                            <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
-                            <g id="SVGRepo_iconCarrier"><title>hamburger</title>
-                                <desc>Created with Sketch Beta.</desc>
-                                <defs></defs>
-                                <g id="Page-1" stroke="none" stroke-width="1" fill-rule="evenodd">
-                                    <g id="Icon-Set-Filled" transform="translate(-212.000000, -888.000000)">
-                                        <path d="M230,904 L214,904 C212.896,904 212,904.896 212,906 C212,907.104 212.896,908 214,908 L230,908 C231.104,908 232,907.104 232,906 C232,904.896 231.104,904 230,904 L230,904 Z M230,896 L214,896 C212.896,896 212,896.896 212,898 C212,899.104 212.896,900 214,900 L230,900 C231.104,900 232,899.104 232,898 C232,896.896 231.104,896 230,896 L230,896 Z M214,892 L230,892 C231.104,892 232,891.104 232,890 C232,888.896 231.104,888 230,888 L214,888 C212.896,888 212,888.896 212,890 C212,891.104 212.896,892 214,892 L214,892 Z"
-                                              id="hamburger"></path>
-                                    </g>
-                                </g>
-                            </g>
-                        </svg>
-                    </div>
-                </div>
-            </div>
+<!--            <div class="header-item hamburger-nav">  !* HAMBURGER NAV TO BE REFACTORED *! -->
+<!--                <div class="hamburger-icon">-->
+<!--                    <svg viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg"-->
+<!--                         xmlns:xlink="http://www.w3.org/1999/xlink">-->
+<!--                        <g id="SVGRepo_bgCarrier" stroke-width="0"></g>-->
+<!--                        <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>-->
+<!--                        <g id="SVGRepo_iconCarrier"><title>hamburger</title>-->
+<!--                            <desc>Created with Sketch Beta.</desc>-->
+<!--                            <defs></defs>-->
+<!--                            <g id="Page-1" stroke="none" stroke-width="1" fill-rule="evenodd">-->
+<!--                                <g id="Icon-Set-Filled" transform="translate(-212.000000, -888.000000)">-->
+<!--                                    <path d="M230,904 L214,904 C212.896,904 212,904.896 212,906 C212,907.104 212.896,908 214,908 L230,908 C231.104,908 232,907.104 232,906 C232,904.896 231.104,904 230,904 L230,904 Z M230,896 L214,896 C212.896,896 212,896.896 212,898 C212,899.104 212.896,900 214,900 L230,900 C231.104,900 232,899.104 232,898 C232,896.896 231.104,896 230,896 L230,896 Z M214,892 L230,892 C231.104,892 232,891.104 232,890 C232,888.896 231.104,888 230,888 L214,888 C212.896,888 212,888.896 212,890 C212,891.104 212.896,892 214,892 L214,892 Z"-->
+<!--                                          id="hamburger"></path>-->
+<!--                                </g>-->
+<!--                            </g>-->
+<!--                        </g>-->
+<!--                    </svg>-->
+<!--                </div>-->
+<!--                <div class="hamburger-nav-off-canvas">-->
+<!--                    <ul class="hamburger-nav-list">-->
+<!--                        <li><a href="#home">Home</a></li>-->
+<!--                        <li><a href="#about">About</a></li>-->
+<!--                        <li><a href="#projects">Projects</a></li>-->
+<!--                        <li><a href="#contact">Contact</a></li>-->
+<!--                    </ul>-->
+<!--                    <div class="hamburger-icon off-canvas">-->
+<!--                        <svg viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg"-->
+<!--                             xmlns:xlink="http://www.w3.org/1999/xlink">-->
+<!--                            <g id="SVGRepo_bgCarrier" stroke-width="0"></g>-->
+<!--                            <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>-->
+<!--                            <g id="SVGRepo_iconCarrier"><title>hamburger</title>-->
+<!--                                <desc>Created with Sketch Beta.</desc>-->
+<!--                                <defs></defs>-->
+<!--                                <g id="Page-1" stroke="none" stroke-width="1" fill-rule="evenodd">-->
+<!--                                    <g id="Icon-Set-Filled" transform="translate(-212.000000, -888.000000)">-->
+<!--                                        <path d="M230,904 L214,904 C212.896,904 212,904.896 212,906 C212,907.104 212.896,908 214,908 L230,908 C231.104,908 232,907.104 232,906 C232,904.896 231.104,904 230,904 L230,904 Z M230,896 L214,896 C212.896,896 212,896.896 212,898 C212,899.104 212.896,900 214,900 L230,900 C231.104,900 232,899.104 232,898 C232,896.896 231.104,896 230,896 L230,896 Z M214,892 L230,892 C231.104,892 232,891.104 232,890 C232,888.896 231.104,888 230,888 L214,888 C212.896,888 212,888.896 212,890 C212,891.104 212.896,892 214,892 L214,892 Z"-->
+<!--                                              id="hamburger"></path>-->
+<!--                                    </g>-->
+<!--                                </g>-->
+<!--                            </g>-->
+<!--                        </svg>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
             <div class="header-item linked-in">
                 <a href="https://www.linkedin.com/in/nikolaoskaragiozidis/" class="btn linked-in-btn" target="_blank">LinkedIn</a>
             </div>
@@ -114,12 +114,12 @@
                             <div class="main-stack-container">
                                 <h3>FULL STACK DEVELOPMENT</h3>
                             </div>
-                            <div class="right-btn-container">
-                                <div class="cta-btn-container">
-                                    <a href="https://www.linkedin.com/in/nikolaoskaragiozidis/" class="btn cta-btn" target="_blank">Projects</a>
+                            <div class="btn-container">
+                                <div class="cta-btn-container primary">
+                                    <a href="https://www.linkedin.com/in/nikolaoskaragiozidis/" class="btn cta-btn-primary" target="_blank">Projects</a>
                                 </div>
-                                <div class="cta-btn-container">
-                                    <a href="https://www.linkedin.com/in/nikolaoskaragiozidis/" class="btn cta-btn" target="_blank">About
+                                <div class="cta-btn-container secondary">
+                                    <a href="https://www.linkedin.com/in/nikolaoskaragiozidis/" class="btn cta-btn-secondary" target="_blank">About
                                         Me</a>
                                 </div>
                             </div>
@@ -174,15 +174,55 @@
                 </div>
             </div>
         </section>
-    <!--    <section class="about-container">-->
-    <!---->
-    <!--    </section>-->
+        <section class="about">
+            <div class="about-container">
+                <h2 class="about-header">About Me.</h2>
+                <div class="about-text-container">
+                    <div class="about-paragraph">
+                        <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda atque distinctio dolores earum esse iure laborum laudantium minus molestias neque nesciunt non odio, quam, quasi quidem, quod recusandae rem totam.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda atque distinctio dolores earum esse iure laborum laudantium minus molestias neque nesciunt non odio, quam, quasi quidem, quod recusandae rem totam.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda atque distinctio dolores earum esse iure laborum laudantium minus molestias neque nesciunt non odio, quam, quasi quidem, quod recusandae rem totam.</p>
+                    </div>
+                    <div class="about-paragraph">
+                        <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda atque distinctio dolores earum esse iure laborum laudantium minus molestias neque nesciunt non odio, quam, quasi quidem, quod recusandae rem totam.</p>
+                    </div>
+                </div>
+                <div class="cards-container">
+                    <div class="card">
+                        <div class="card-inner header">
+                            <img src="/images/icons/joomla-icon.svg" width="50px" />
+                            <h3> Joomla </h3>
+                        </div>
+                        <div class="card-inner paragraph">
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At dolore eveniet facilis harum ipsum iste iure laudantium maxime necessitatibus neque</p>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-inner header">
+                            <img src="/images/icons/shopify-icon.svg" width="50px" />
+                            <h3> Shopify </h3>
+                        </div>
+                        <div class="card-inner paragraph">
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At dolore eveniet facilis harum ipsum iste iure laudantium maxime necessitatibus neque</p>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-inner header">
+                            <img src="/images/icons/joomla-icon.svg" width="50px" />
+                            <h3> Joomla </h3>
+                        </div>
+                        <div class="card-inner paragraph">
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At dolore eveniet facilis harum ipsum iste iure laudantium maxime necessitatibus neque</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
     </main>
 
     <footer>
-
+        <!-- to be added -->
     </footer>
 
-        <script src="/js/script.js"></script>
+        <script src="/js/script.js"></script>  <!--- temp js script for mobile hamburger menu -->
+
     </body>
 </html>
